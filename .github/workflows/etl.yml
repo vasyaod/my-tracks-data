@@ -78,6 +78,6 @@ jobs:
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         external_repository: vasyaod/my-tracks
-        publish_branch: master
+        publish_branch: main
         publish_dir: ./my-trips
         force_orphan: true
