@@ -33,6 +33,7 @@ jobs:
         cd ../..
         cp -u my-trips-code/viewer/bundle.js my-trips
         cp -u my-trips-code/viewer/index.html my-trips
+        cp -u my-trips-code/viewer/ol.min.js my-trips
 
     - name: Data processing
       env: 
