@@ -3,3 +3,5 @@ title: Daily ride 2020-02-19
 gpx:
   - "track.gpx"
 date: 2020-02-19
+hash:
+  - 4afc2253a9adf3b637651a9ae0281fe752a23e8deebe60365b2c2c59be0bc6c6      # Add a hash of track.gpx for to be sure that track.gpx is not changed
