@@ -26,9 +26,6 @@ jobs:
         path: data-repo
 
     - name: Generate static pages
-      env: 
-        INPUT_DATA_PATH: ../../data-repo
-        OUTPUT_DATA_PATH: ../../pages-repo
       run: |
         ./code-repo/generate
 
