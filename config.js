@@ -1,0 +1,18 @@
+module.exports = {
+    /**
+     * The url where data model is, it could be change for debug purpose.
+     * 
+     * For example: https://vasyaod.github.io/my-tracks/
+     */
+    url: "./",
+
+    /**
+     * Caption of the site.
+     */
+    siteTitle: "My Tracks",
+
+    /**
+     * Site description on the top of index page
+     */
+    siteDescription: "Non-moderated collection of my tracks which updated every day automatically. More description principle of work you can find [here](https://github.com/vasyaod/my-trips-viewer/blob/master/how-my-tracks-works.md)"
+}
