@@ -9,7 +9,7 @@ module.exports = {
     /**
      * Caption of the site.
      */
-    siteTitle: "My Tracks",
+    siteTitle: "All My Bike Tracks",
 
     /**
      * Site description on the top of index page
