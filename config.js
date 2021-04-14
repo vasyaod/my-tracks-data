@@ -14,5 +14,5 @@ module.exports = {
     /**
      * Site description on the top of index page
      */
-    siteDescription: "Non-moderated collection of my bike and walking tracks which are updated every day automatically. More description principle of work you can find [here](https://github.com/vasyaod/my-trips-viewer/blob/master/how-my-tracks-works.md)"
+    siteDescription: "Non-moderated collection of my bike and walking tracks which are updated every day automatically. More description of work principle you can find [here](https://github.com/vasyaod/my-trips-viewer/blob/master/how-my-tracks-works.md)"
 }
