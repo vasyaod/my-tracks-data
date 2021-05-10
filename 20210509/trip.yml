@@ -1,7 +1,9 @@
 
 title: Daily ride 2021-05-09
+description: Second shot of vaccine in Great America stadium
+tags: miyata
 gpx:
   - "track.gpx"
 date: 2021-05-09
 hash:
-  - 7c41f6e5d31a8ae87e31616891cdc9ddd7ec4c0b77cc34df4a4d8c9c864e6174      # Add a hash of track.gpx for to be sure that track.gpx is not changed
+  - 3cf51f22696f70733d1ac5fbab04ab8959182310a9e5ea192b2df56f49130358      # Add a hash of track.gpx for to be sure that track.gpx is not changed
