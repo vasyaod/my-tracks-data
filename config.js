@@ -4,7 +4,7 @@ module.exports = {
      * 
      * For example: https://vasyaod.github.io/my-tracks/
      */
-    url: "./",
+    url: "https://vasyaod.github.io/my-tracks/",
 
     /**
      * Caption of the site.
