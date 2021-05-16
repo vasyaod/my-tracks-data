@@ -1,7 +1,8 @@
 
 title: Daily ride 2021-05-15
+description: the first day wasn't lucky I spent 4 patches for flatten tyre
 gpx:
   - "track.gpx"
 date: 2021-05-15
 hash:
-  - 8ffa7fc21324a782a76b39e9ae9f02d69df5074fee10bcd6877ab139e84ad4bc      # Add a hash of track.gpx for to be sure that track.gpx is not changed
+  - 8711c6626d2159d66f71e95cdd764dbbc882d1b3f55ed887fc175a55ab9d9242      # Add a hash of track.gpx for to be sure that track.gpx is not changed
