@@ -1,7 +1,8 @@
 
 title: Daily ride 2021-09-17
+tags: office B, recumbent
 gpx:
   - "track.gpx"
 date: 2021-09-17
 hash:
-  - edf06bd29bb6b2a781481b2b1246c784134d78b4cf2c6d125980fafe1dee9e      # Add a hash of track.gpx for to be sure that track.gpx is not changed
+  - 9e187b749cce719c76d21be45c08db35be2adb7bc190597d0fb88d0038e10342      # Add a hash of track.gpx for to be sure that track.gpx is not changed
