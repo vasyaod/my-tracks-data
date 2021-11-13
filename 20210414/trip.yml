@@ -6,4 +6,4 @@ gpx:
   - "track.gpx"
 date: 2021-04-14
 hash:
-  - 45ae391bd32f9e0f57a2ac4bcf4e6a1f1208183aa3d95d807de95822e6f1972e      # Add a hash of track.gpx for to be sure that track.gpx is not changed
+  - 49677bc724cff2e0fab4f81c49fdd18d4c454d22597f60d946e10c13bc67e9ea      # Add a hash of track.gpx for to be sure that track.gpx is not changed
