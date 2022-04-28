@@ -10,3 +10,9 @@ siteTitle: "All My Bike Tracks"
 # Header of the site
 siteDescription: "Non-moderated collection of my bike and walking tracks which are updated every day automatically. More description of work principle you can find [here](https://github.com/vasyaod/my-trips-viewer/blob/master/how-my-tracks-works.md)"
 
+# Distance threshold (meters) for filtering
+distanceThreshold: 20
+
+# Time threshold (seconds) for splitting of tracks
+timeThreshold: 600
+
