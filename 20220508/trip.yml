@@ -1,7 +1,9 @@
 
 title: "Daily ride 2022-05-08"
+description: Day 6.
+tags: recumbent, ToTheEastCoat
 gpx:
   - "track.gpx"
 date: 2022-05-08
 hash:
-  - 5330c4f422772763d08c2802ef63e7f1884020c09c583a04c19c08cb9dae674c      # Add a hash of track.gpx for to be sure that track.gpx is not changed
+  - 8f5dc812670bdd3531e80ae48a0731f88ba8e3938395b5eb472568c39245784f      # Add a hash of track.gpx for to be sure that track.gpx is not changed
