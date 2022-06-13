@@ -16,3 +16,9 @@ distanceThreshold: 20
 # Time threshold (seconds) for splitting of tracks
 timeThreshold: 600
 
+# Enable 
+enableTagger: true
+
+#
+autoTags: "school,office B,office C,office A,tandem,recumbent"
+
