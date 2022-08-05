@@ -14,11 +14,11 @@ jobs:
         repository: vasyaod/my-trips-viewer
         path: code-repo
 
-    - name: Clone repo of pages
-      uses: actions/checkout@v2
-      with:
-        repository: vasyaod/my-tracks         # <- Please, set Github pages repo here
-        path: pages-repo
+#    - name: Clone repo of pages
+#      uses: actions/checkout@v2
+#      with:
+#        repository: vasyaod/my-tracks         # <- Please, set Github pages repo here
+#        path: pages-repo
 
     - name: Clone data
       uses: actions/checkout@v2
