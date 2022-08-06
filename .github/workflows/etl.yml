@@ -14,11 +14,11 @@ jobs:
         repository: vasyaod/my-trips-viewer
         path: code-repo
 
-#    - name: Clone repo of pages
-#      uses: actions/checkout@v2
-#      with:
-#        repository: vasyaod/my-tracks         # <- Please, set Github pages repo here
-#        path: pages-repo
+    - name: Clone repo of pages
+      uses: actions/checkout@v2
+      with:
+        repository: vasyaod/my-tracks         # <- Please, set Github pages repo here
+        path: pages-repo
 
     - name: Clone data
       uses: actions/checkout@v2
@@ -29,14 +29,14 @@ jobs:
       run: |
         ./code-repo/generate
 
-#    - name: Commit Github pages
-#      run: |
-#        cd pages-repo
-#
-#        git config --local user.email "action@github.com"
-#        git config --local user.name "GitHub Action"
-#        git add .
-#        git commit -m "Add changes" -a
+    - name: Commit Github pages
+      run: |
+        cd pages-repo
+
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Add changes" -a
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
